@@ -74,3 +74,6 @@ None, 'max_features': 8, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estim
 ### Final Results
 
 My final Random Forest model, when tested on the testing set of the test/train split training data, scored 0.8385 accuracy. When tested on the actual test data, the model had an accuracy score of 0.7846.
+
+#### Acknowledgements
+[Kristie Wirth](https://github.com/kristiewirth) for providing a helpful code review.
